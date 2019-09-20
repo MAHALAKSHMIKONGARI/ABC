@@ -1,6 +1,6 @@
 # ABC
-stu.id
-stu.fname
-stu.lastname
 my name is mahalakshmi
 hello
+mem.id
+mem.fname
+mem.lastname
