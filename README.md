@@ -1,4 +1,4 @@
 # ABC
-stu.id
-stu.fname
-stu.lastname
+mem.id
+mem.fname
+mem.lastname
